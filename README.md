@@ -1,5 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Shivanesh</h1>
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate frontend developer from India</h3>
+<h1 align="center" style="font-family: 'Roboto Slab', serif;">Hi , I'm Shivanesh</h1>
 
 - 🔭 I’m currently working on **'Molecule-Visualiser'**
 - 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
@@ -8,8 +7,8 @@
 
 ---
 
-<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with me:</h3>
-<p align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<h3 align="left" style="font-family: 'Roboto Slab', serif;">Connect with me:</h3>
+<p align="left" style="font-family: 'Roboto Slab', serif;">
   <a href="https://instagram.com/shivanesh_1495" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     <span style="margin-left: 10px;">shivanesh_1495</span>
@@ -28,8 +27,8 @@
 
 ---
 
-<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Languages and Tools:</h3>
-<h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Programming Languages:</h4>
+<h3 align="left" style="font-family: 'Roboto Slab', serif;">Languages and Tools:</h3>
+<h4 style="font-family: 'Roboto Slab', serif;">Programming Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -45,7 +44,7 @@
   </a>
 </p>
 
-<h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Frontend Development:</h4>
+<h4 style="font-family: 'Roboto Slab', serif;">Frontend Development:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -58,10 +57,18 @@
   </a>
 </p>
 
-<h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Backend and Database:</h4>
+<h4 style="font-family: 'Roboto Slab', serif;">Backend and Database:</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+</p>
+
+<h4 style="font-family: 'Roboto Slab', serif;">Learning Platforms:</h4>
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+    <span style="margin-left: 10px;">Amazon Web Services (AWS)</span>
   </a>
 </p>
 

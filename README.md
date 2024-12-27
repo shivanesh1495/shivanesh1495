@@ -1,6 +1,5 @@
 <h1 align="center" style="font-family: 'Roboto Slab', serif;"><b><i>Hi 👋, I'm Shivanesh</h1>
 
-- 🔭 I’m currently working on **'Molecule-Visualiser'**
 - 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
 - 👯 I’m looking to collaborate on **projects in my tech domain**
 - 📫 How to reach me **mcshivanesh777@gmail.com**

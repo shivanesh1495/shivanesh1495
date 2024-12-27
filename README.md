@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Roboto Slab', serif;">Hi , I'm Shivanesh</h1>
+<h1 align="center" style="font-family: 'Roboto Slab', serif;"><b><i>Hi 👋, I'm Shivanesh</i></b></h1>
 
 - 🔭 I’m currently working on **'Molecule-Visualiser'**
 - 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
@@ -60,21 +60,4 @@
 <h4 style="font-family: 'Roboto Slab', serif;">Backend and Database:</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-</p>
-
-<h4 style="font-family: 'Roboto Slab', serif;">Learning Platforms:</h4>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-    <span style="margin-left: 10px;">Amazon Web Services (AWS)</span>
-  </a>
-</p>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanesh1495&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40

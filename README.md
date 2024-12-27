@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivanesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Shivanesh</h1>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **'Molecule-Visualiser'**
 - 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
@@ -8,28 +8,28 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with me:</h3>
+<p align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <a href="https://instagram.com/shivanesh_1495" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <span>shivanesh_1495</span>
+    <span style="margin-left: 10px;">shivanesh_1495</span>
   </a>
   <br />
   <a href="https://www.hackerrank.com/mcshivanesh777" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-    <span>mcshivanesh777</span>
+    <span style="margin-left: 10px;">mcshivanesh777</span>
   </a>
   <br />
   <a href="https://www.leetcode.com/shivanesh_1495" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    <span>shivanesh_1495</span>
+    <span style="margin-left: 10px;">shivanesh_1495</span>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<h4>Programming Languages:</h4>
+<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Languages and Tools:</h3>
+<h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Programming Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -43,12 +43,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40" />
-  </a>
 </p>
 
-<h4>Frontend Development:</h4>
+<h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Frontend Development:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -61,29 +58,10 @@
   </a>
 </p>
 
-<h4>Backend and Database:</h4>
+<h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Backend and Database:</h4>
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-</p>
-
-<h4>Tools and Platforms:</h4>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
   </a>
 </p>
 

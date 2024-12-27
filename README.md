@@ -11,13 +11,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/shivanesh_1495" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanesh_1495" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <span>shivanesh_1495</span>
   </a>
+  <br />
   <a href="https://www.hackerrank.com/mcshivanesh777" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcshivanesh777" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <span>mcshivanesh777</span>
   </a>
+  <br />
   <a href="https://www.leetcode.com/shivanesh_1495" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivanesh_1495" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <span>shivanesh_1495</span>
   </a>
 </p>
 

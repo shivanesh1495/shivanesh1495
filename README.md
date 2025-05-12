@@ -1,20 +1,67 @@
-<h1 align="center">Hi 👋, I'm shivanesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">Hi, I'm</h2>
 
-- 🌱 I’m currently learning **Full Stack Development and Cloud computing**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed4a25d5-b69c-4a33-918c-677cc2fc2582" alt="Banner" style="width:75%;" />
+</div>
 
-- 📫 How to reach me **mcshivanesh777@gmail.com**
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Frontend+Developer;Tech+Explorer;Cloud+Learner" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shivanesh_1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanesh_1495" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mcshivanesh777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcshivanesh777" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivanesh_1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivanesh_1495" height="30" width="40" /></a>
-</p>
+<h2 align="center"> About Me </h2>
+<div align="center" style="max-width: 800px; margin: 0 auto; font-family: 'Arial', sans-serif;">
+    <p style="font-size: 18px; color: #FFFFFF; line-height: 1.6;">
+        🌱 Currently diving into <strong>Full Stack Development</strong> and <strong>Cloud Computing</strong>.<br/>
+        💡 Passionate about crafting <strong>clean, responsive user interfaces</strong>.<br/>
+        🔭 Constantly learning and building cool projects that blend tech and creativity.
+    </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="center"> Tech Stack and Tools </h2>
+<div align="center">
+    <h3>Programming</h3>
+    <div>
+        <img src="https://skillicons.dev/icons?i=c" title="C"/>
+        <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+        <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+        <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+        <img src="https://skillicons.dev/icons?i=matlab" title="Matlab"/>
+    </div>
+    <h3>Web Development</h3>
+    <div>
+        <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+        <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+        <img src="https://skillicons.dev/icons?i=react" title="React"/>
+        <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+        <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+    </div>
+    <h3>Tools & Platforms</h3>
+    <div>
+        <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+        <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+        <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+        <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+        <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
+    </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanesh1495&show_icons=true&locale=en&layout=compact" alt="shivanesh1495" /></p>
+<h2 align="center"> GitHub Stats </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Shivanesh's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanesh1495&theme=gotham&hide_border=true" alt="GitHub Streak" />
+    <br />
+    <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark" alt="Github Activity Graph" />
+    </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&locale=en" alt="shivanesh1495" /></p>
+<h2 align="center"> Connect with Me </h2>
+<div align="center">
+    <a href="mailto:mcshivanesh777@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Email" /></a>
+    <a href="https://instagram.com/shivanesh_1495" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" title="Instagram" /></a>
+    <a href="https://www.hackerrank.com/mcshivanesh777" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" title="HackerRank" /></a>
+    <a href="https://www.leetcode.com/shivanesh_1495" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" title="LeetCode" /></a>
+</div>

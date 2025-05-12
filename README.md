@@ -57,5 +57,7 @@
     <a href="mailto:mcshivanesh777@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Email" /></a>
     <a href="https://instagram.com/shivanesh_1495" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" title="Instagram" /></a>
     <a href="https://www.hackerrank.com/mcshivanesh777" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" title="HackerRank" /></a>
-    <a href="https://www.leetcode.com/shivanesh_1495" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" title="LeetCode" /></a>
+    <a href="https://www.linkedin.com/in/shivanesh-m-c-9aa8a12a3" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
+</a>
+
 </div>

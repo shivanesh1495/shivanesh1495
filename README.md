@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I'm</h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ed4a25d5-b69c-4a33-918c-677cc2fc2582" alt="Banner" style="width:75%;" />
 </div>
 
 <div align="center">

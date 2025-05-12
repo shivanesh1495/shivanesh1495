@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I'm</h2>
 
-<div align="center">
-</div>
+<h1 align="center"><strong><em>SHIVANESH</em></strong></h1>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Frontend+Developer;Tech+Explorer;Cloud+Learner" alt="Typing SVG" />
@@ -44,6 +43,7 @@
         <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
         <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
         <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
+        <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
     </div>
 </div>
 

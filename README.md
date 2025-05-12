@@ -1,10 +1,5 @@
-<h2 align="center">Hi, I'm</h2>
+<h1 align="center"><strong><em> Hi, I'm SHIVANESH</em></strong></h1>
 
-<h1 align="center"><strong><em>SHIVANESH</em></strong></h1>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Frontend+Developer;Tech+Explorer;Cloud+Learner" alt="Typing SVG" />
-</div>
 
 <h2 align="center"> About Me </h2>
 <div align="center" style="max-width: 800px; margin: 0 auto; font-family: 'Arial', sans-serif;">

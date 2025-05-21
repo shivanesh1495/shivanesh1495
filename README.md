@@ -42,7 +42,6 @@
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
     <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
     <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
-    <img src="https://skillicons.dev/icons?i=sse" title="SSE"/>
   </div>
 </div>
 

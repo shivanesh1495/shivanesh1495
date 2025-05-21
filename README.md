@@ -40,6 +40,8 @@
     <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
     <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
+    <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
+    <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/>
     <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
     <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
   </div>

@@ -38,7 +38,6 @@
   <div>
     <img src="https://skillicons.dev/icons?i=git" title="Git"/>
     <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
     <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
     <img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
     <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>

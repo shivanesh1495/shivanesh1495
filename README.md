@@ -3,7 +3,7 @@
 <h2 align="center">About Me</h2>
 <div align="center" style="max-width: 800px; margin: 0 auto; font-family: 'Arial', sans-serif;">
   <p style="font-size: 18px; color: #FFFFFF; line-height: 1.6;">
-    🌱 Currently diving into <strong>Full Stack Development</strong> and <strong>Cloud Computing</strong>.<br/>
+    🌱 Currently diving into <strong>Full Stack Development</strong>.<br/>
     💡 Passionate about crafting <strong>clean, responsive user interfaces</strong>.<br/>
     🔭 Constantly learning and building cool projects that blend tech and creativity.
   </p>

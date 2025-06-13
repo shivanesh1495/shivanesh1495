@@ -67,3 +67,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
   </a>
 </div>
+<div>
+  <h2 align="center">LeetCode Stats</h2>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?ext=contest" alt="LeetCode Stats" />
+</div>
+
+</div>
+

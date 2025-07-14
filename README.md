@@ -50,7 +50,6 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Shivanesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanesh1495&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark" alt="GitHub Activity Graph" />
 </div>

@@ -37,7 +37,7 @@
 
   <h3> Programming</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,haskell" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
   </p>
 
   <h3>Web and Mobile App Development</h3>

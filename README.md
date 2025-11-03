@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+SHIVANESH!;⚡+Full+Stack+Developer+⚡;🚀+Tech+Enthusiast+%26+UI+Crafter+🚀" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&text=Hi%2C%20I'm%20SHIVANESH!&fontAlign=50&fontAlignY=40&color=0:00ffff,100:0077ff&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>⚡ Full Stack Developer ⚡ | 🚀 Tech Enthusiast | 🎨 UI Crafter</b>
 </p>
 
 <!-- Neon Divider -->

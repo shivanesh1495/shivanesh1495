@@ -42,13 +42,13 @@
 
   <h3> Web Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,dart,flutter" />
 </p>
 
 
   <h3>Tools & Platforms</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase" />
   </p>
 </div>
 

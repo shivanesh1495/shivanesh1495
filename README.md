@@ -1,10 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=450&lines=👋+Hi%2C+I'm+SHIVANESH!;Full+Stack+Developer;Tech+Enthusiast+%26+UI+Crafter" alt="Typing Animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+SHIVANESH!;⚡+Full+Stack+Developer+⚡;🚀+Tech+Enthusiast+%26+UI+Crafter+🚀" alt="Typing Animation" />
+</p>
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF0&height=80&section=header&animation=twinkling"/>
+</p>
 
 ---
 
-<h2 align="center">⚡ About Me ⚡</h2>
+<h2 align="center" style="color:#00FFFF;">⚡ About Me ⚡</h2>
 
 <p align="center" style="max-width: 700px; font-size: 18px; color: #D0D0D0; line-height: 1.6;">
   🌱 Currently exploring the depths of <strong>Full Stack Development</strong>.<br/>
@@ -15,9 +20,10 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack & Tools 💻</h2>
+<h2 align="center" style="color:#00FFFF;">💻 Tech Stack & Tools 💻</h2>
 
 <div align="center">
+
   <h3>🧠 Programming</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab" />
@@ -36,7 +42,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="color:#00FFFF;">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -49,7 +55,7 @@
 
 ---
 
-<h2 align="center">🧩 LeetCode Stats</h2>
+<h2 align="center" style="color:#00FFFF;">🧩 LeetCode Stats</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
@@ -57,7 +63,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center" style="color:#00FFFF;">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:mcshivanesh777@gmail.com" target="_blank">
@@ -76,5 +82,10 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting!+✨;Let's+build+something+amazing+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting!+✨;Let's+build+something+amazing+💻" alt="Typing SVG" />
 </h3>
+
+<!-- Neon Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF0&height=80&section=footer&animation=twinkling"/>
+</p>

@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&text=Hi%2C%20I'm%20SHIVANESH!&fontAlign=50&fontAlignY=40&color=0:00ffff,100:0077ff&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget">
 </p>
 
 <p align="center">
-  <b>⚡ Full Stack Developer ⚡ | 🚀 Tech Enthusiast | 🎨 UI Crafter</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF0,100:0077FF&height=2&section=header"/>
 </p>
+
+<h2 align="center">👨‍💻 Full Stack Developer | 🚀 Tech Explorer | 🎨 UI Enthusiast</h2>
+
+
+
+
+
+
+
 
 <!-- Neon Divider -->
 <p align="center">

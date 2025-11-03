@@ -20,10 +20,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF0&height=80&section=header&animation=twinkling"/>
 </p>
 
----
 
 <h2 align="center" style="color:#00FFFF;">⚡ About Me ⚡</h2>
-
 <p align="center" style="max-width: 700px; font-size: 18px; color: #D0D0D0; line-height: 1.6;">
   🌱 Currently exploring the depths of <strong>Full Stack Development</strong>.<br/>
   💡 Passionate about building <strong>clean, dynamic, and responsive UIs</strong>.<br/>

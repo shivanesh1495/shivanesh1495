@@ -37,18 +37,18 @@
 
   <h3> Programming</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart" />
   </p>
 
   <h3>Web and Mobile App Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
 </p>
 
 
   <h3>Tools & Platforms</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
   </p>
 </div>
 

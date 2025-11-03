@@ -42,7 +42,7 @@
 
   <h3>🌐 Web Development</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remixjs,threejs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,Remix,threejs,mongodb,mysql" />
   </p>
 
   <h3>⚙️ Tools & Platforms</h3>

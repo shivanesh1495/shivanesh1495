@@ -94,9 +94,12 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting!+✨;Let's+build+something+amazing+💻" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=✨%20Thanks%20for%20visiting!%20✨%20%7C%20Let's%20build%20something%20amazing%20💻&fontAlign=50&fontAlignY=50&fontColor=00FFAA&color=0:000000,100:00FFAA&fontSize=20&height=90" />
+</p>
+
+
+
 
 <!-- Neon Footer -->
 <p align="center">

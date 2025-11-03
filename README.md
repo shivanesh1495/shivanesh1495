@@ -41,9 +41,10 @@
   </p>
 
   <h3>🌐 Web Development</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,Remix,threejs,mongodb,mysql" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql" />
+</p>
+
 
   <h3>⚙️ Tools & Platforms</h3>
   <p>

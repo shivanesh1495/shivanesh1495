@@ -29,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=react" title="React"/>
     <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=remixjs" title="Remix js"/>
     <img src="https://skillicons.dev/icons?i=threejs" title="Three.js"/>    
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>

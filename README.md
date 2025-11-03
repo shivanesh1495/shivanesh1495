@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab" />
   </p>
 
-  <h3> Development</h3>
+  <h3>Web and Mobile App Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,dart,flutter" />
 </p>

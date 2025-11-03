@@ -95,9 +95,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=✨%20Thanks%20for%20visiting!%20✨%20%7C%20Let's%20build%20something%20amazing%20💻&fontAlign=50&fontAlignY=50&fontColor=00FFAA&color=0:000000,100:00FFAA&fontSize=20&height=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=🤝%20Let's%20collaborate%20and%20create%20something%20amazing!%20🚀&fontAlign=50&fontAlignY=50&fontColor=00FFAA&color=0:000000,100:00FFAA&fontSize=20&height=90" />
 </p>
-
 
 
 

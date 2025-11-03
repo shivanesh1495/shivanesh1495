@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF0,100:0077FF&height=2&section=header"/>
 </p>
 
-<h2 align="center">👨‍💻 Full Stack Developer | 🚀 Tech Explorer | 🎨 UI Enthusiast</h2>
+<h2 align="center">Full Stack Developer | Tech Explorer |  UI Enthusiast</h2>
 
 
 
@@ -21,32 +21,32 @@
 </p>
 
 
-<h2 align="center" style="color:#00FFFF;">⚡ About Me ⚡</h2>
+<h2 align="center" style="color:#00FFFF;">About Me </h2>
 <p align="center" style="max-width: 700px; font-size: 18px; color: #D0D0D0; line-height: 1.6;">
-  🌱 Currently exploring the depths of <strong>Full Stack Development</strong>.<br/>
-  💡 Passionate about building <strong>clean, dynamic, and responsive UIs</strong>.<br/>
-  🚀 I love merging <strong>technology with creativity</strong> to craft interactive experiences.<br/>
-  🎯 Always curious, always learning, always building!
+  . Currently exploring the depths of <strong>Full Stack Development</strong>.<br/>
+  . Passionate about building <strong>clean, dynamic, and responsive UIs</strong>.<br/>
+  . I love merging <strong>technology with creativity</strong> to craft interactive experiences.<br/>
+  . Always curious, always learning, always building!
 </p>
 
 ---
 
-<h2 align="center" style="color:#00FFFF;">💻 Tech Stack & Tools 💻</h2>
+<h2 align="center" style="color:#00FFFF;">Tech Stack & Tools </h2>
 
 <div align="center">
 
-  <h3>🧠 Programming</h3>
+  <h3> Programming</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab" />
   </p>
 
-  <h3>🌐 Web Development</h3>
+  <h3> Web Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql" />
 </p>
 
 
-  <h3>⚙️ Tools & Platforms</h3>
+  <h3>Tools & Platforms</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma" />
   </p>
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 align="center" style="color:#00FFFF;">📊 GitHub Stats</h2>
+<h2 align="center" style="color:#00FFFF;">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="center" style="color:#00FFFF;">🧩 LeetCode Stats</h2>
+<h2 align="center" style="color:#00FFFF;"> LeetCode Stats</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
@@ -75,7 +75,7 @@
 
 ---
 
-<h2 align="center" style="color:#00FFFF;">🌐 Connect With Me</h2>
+<h2 align="center" style="color:#00FFFF;">Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:mcshivanesh777@gmail.com" target="_blank">

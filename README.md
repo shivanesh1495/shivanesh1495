@@ -21,13 +21,22 @@
 </p>
 
 
-<h2 align="center" style="color:#00FFFF;">About Me </h2>
-<p align="center" style="max-width: 700px; font-size: 18px; color: #D0D0D0; line-height: 1.6;">
-  . Currently exploring the depths of <strong>Full Stack Development</strong>.<br/>
-  . Passionate about building <strong>clean, dynamic, and responsive UIs</strong>.<br/>
-  . I love merging <strong>technology with creativity</strong> to craft interactive experiences.<br/>
-  . Always curious, always learning, always building!
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=👨‍💻+About+Me;Full-Stack+Developer;UI/UX+Enthusiast;Always+Learning+🚀" />
+</h2>
+
+<p align="center" style="max-width: 800px; font-size: 18px; color: #00ffffcc; line-height: 1.7; text-shadow: 0 0 10px #00ffff;">
+  ✨ Exploring the universe of <strong>Full Stack Development</strong><br/>
+  🎨 Passionate about crafting <strong>clean, dynamic & responsive UIs</strong><br/>
+  🔥 Blending <strong>technology + creativity</strong> to build immersive experiences<br/>
+  🚀 Forever curious • Forever building • Forever leveling up
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20%7C%20Create%20%7C%20Innovate-00FFFF?style=for-the-badge&logo=github&logoColor=0ff" />
+</p>
+
+
 
 ---
 

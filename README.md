@@ -6,11 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF0,100:0077FF&height=2&section=header"/>
 </p>
 
-<h2 align="center">Full Stack Developer | Tech Explorer |  UI Enthusiast</h2>
-
-
-
-
 
 
 
@@ -22,7 +17,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=👨‍💻+About+Me;Full-Stack+Developer;UI/UX+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=👨‍💻+About+Me;Full-Stack+Developer;UI/UX+Enthusiast;Tech+Aspirant+🚀" />
 </h2>
 
 <p align="center" style="max-width: 800px; font-size: 18px; color: #00ffffcc; line-height: 1.7; text-shadow: 0 0 10px #00ffff;">

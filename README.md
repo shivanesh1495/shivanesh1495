@@ -1,70 +1,76 @@
-<!-- ⚡ Neon Cyberpunk Profile Header -->
+<!-- Futuristic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&color=9D00FF&center=true&vCenter=true&width=650&lines=//+SYSTEM+BOOTING...;Initializing+Cyber+Identity...;Welcome+to+Shivanesh's+Neon+Grid+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Initializing+Professional+Profile...;Loading+Credentials...;Welcome+to+My+Digital+Portfolio" />
+</p>
+
+<!-- Hologram Profile Card -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&data=repositories,stars,commits,followers&theme=darkmode" />
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&theme=darkmode&data=followers,repositories,stars,commits" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=90&color=0:8A00FF,100:00E5FF&text=NEON+NET+ONLINE&fontColor=EAEAEA&animation=twinkling&fontSize=26&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=85&color=0:00E5FF,100:7A00FF&animation=twinkling&text=Software+Engineer+%7C+Full-Stack+Developer&fontColor=FFFFFF&fontSize=22" />
 </p>
 
 ---
 
-### 🟣 **BIO.exe — Cyber Identity Log**
-<p align="center" style="color:#00eaff; font-size:18px; text-shadow:0 0 8px #00E5FF;">
-⚙️ Full-Stack Developer in the <b>Neon City Grid</b><br>
-💠 Crafting futuristic <b>motion-driven UIs</b><br>
-🔗 Fusing <b>code + art + neural creativity</b><br>
-🧠 Constant system upgrades — Learning, Breaking, Rebuilding<br>
+### 🌐 **Professional Summary**
+<p align="center" style="color:#B8F8FF;font-size:17px;line-height:1.6;text-shadow:0 0 8px #00FFFF;">
+I am a dedicated Full-Stack Software Developer with a focus on building efficient, scalable, and<br>
+user-centric web applications. I take a structured engineering approach, combining clarity in design<br>
+with modern development practices to deliver high-quality digital solutions. Passionate about formal<br>
+architecture, intuitive UI systems, and constant skill refinement.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CYBER%20OPERATIVE-CLASS%3A%20DEV-8A00FF?style=for-the-badge&logo=github&logoColor=cyan&labelColor=000" />
+  <img src="https://img.shields.io/badge/Professional%20Mindset-Active-00E5FF?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-Driven-Yes-%E2%9C%85-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
 ---
 
-### 🛠️ **Tech Arsenal // Hologram Assets**
+### 🚀 **Technical Expertise**
+
 <div align="center">
 
-#### 💻 Languages
+#### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell"/>
 
-#### 🌐 Frameworks & Engines
+#### 🌍 Frameworks & Ecosystem
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,remix,threejs,flutter"/>
 
-#### 🧠 Databases & Backend
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+#### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
 
-#### 🛠 System Tools
-<img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,postman,androidstudio,figma,matlab"/>
+#### 🛠 Development Tools
+<img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,postman,figma,androidstudio,matlab"/>
+
 </div>
 
 ---
 
-### 🔥 **Performance Metrics // GitNet Activity**
+### 📊 **Performance & Activity**
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=radical&hide_border=true&show_icons=true&bg_color=0,000000,30005E,A900FF&icon_color=00F7FF&text_color=C9F9FF"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shivanesh1495&theme=neon-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=shivanesh1495&theme=tokyonight&hide_border=true" />
 </div>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=high-contrast&bg_color=050014&color=FF00F5&line=00F0FF&point=00D9FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&hide_border=true&bg_color=0D1117&line=00E5FF&point=FFFFFF&radius=8" />
 </p>
 
 ---
 
-### 🎯 **LeetOps Rank // Algorithm Combat Report**
+### 🧠 **Algorithmic Practice**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=Share+Tech+Mono&border=FF00F5&radius=8&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=JetBrains+Mono&ext=contest&border=00E5FF&radius=8" />
 </p>
 
 ---
 
-### 🛰️ **Neural Links // Connect to Network**
+### 🤝 **Professional Contact**
+
 <p align="center">
 <a href="mailto:mcshivanesh777@gmail.com"><img height="42" src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;
 <a href="https://linkedin.com/in/shivanesh-m-c-9aa8a12a3"><img height="42" src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
@@ -74,9 +80,9 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=OPEN+FOR+CYBER+OPERATIONS+%F0%9F%9A%80&color=0:FF00FF,100:00E5FF&fontColor=FFFFFF&animation=fade&fontSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Open+to+Collaboration+and+Innovative+Projects&fontAlign=50&fontAlignY=50&fontColor=00F0FF&color=0:000000,100:00E5FF&fontSize=20&height=90" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=00EFFF&height=85&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00E5FF&height=80&section=footer&animation=twinkling"/>
 </p>

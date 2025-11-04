@@ -17,7 +17,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=👨‍💻+About+Me;Full-Stack+Developer;UI/UX+Enthusiast;Tech+Aspirant+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=👨‍💻Full-Stack+Developer;UI/UX+Enthusiast;Tech+Aspirant+🚀" />
 </h2>
 
 <p align="center" style="max-width: 800px; font-size: 18px; color: #00ffffcc; line-height: 1.7; text-shadow: 0 0 10px #00ffff;">

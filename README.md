@@ -17,7 +17,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=👨‍💻Full-Stack+Developer;UI/UX+Enthusiast;Tech+Aspirant+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Full-Stack+Developer;UI/UX+Enthusiast;Tech+Aspirant" />
 </h2>
 
 <p align="center" style="max-width: 800px; font-size: 18px; color: #00ffffcc; line-height: 1.7; text-shadow: 0 0 10px #00ffff;">
@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=⚙️%20Open%20to%20collaborations%20on%20exciting%20tech%20projects!%20💡&fontAlign=50&fontAlignY=50&fontColor=00FFAA&color=0:000000,100:00FFAA&fontSize=20&height=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=%20Open%20to%20collaborations%20on%20exciting%20tech%20projects!%20&fontAlign=50&fontAlignY=50&fontColor=00FFAA&color=0:000000,100:00FFAA&fontSize=20&height=90" />
 </p>
 
 

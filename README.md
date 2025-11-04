@@ -1,88 +1,78 @@
-<!-- Futuristic Header -->
+<!-- MATRIX INTRO PANEL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Initializing+Professional+Profile...;Loading+Credentials...;Welcome+to+My+Digital+Portfolio" />
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="100%" alt="matrix intro"/>
 </p>
 
-<!-- Hologram Profile Card -->
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&data=repositories,stars,commits,followers&theme=darkmode" />
-</p>
+<h1 align="center" style="font-family: 'JetBrains Mono', monospace; color:#00F6FF;">
+  System Identity Initialized
+</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=85&color=0:00E5FF,100:7A00FF&animation=twinkling&text=Software+Engineer+%7C+Full-Stack+Developer&fontColor=FFFFFF&fontSize=22" />
+<p align="center" style="font-size:15px;color:#A9F6FF;font-family: 'JetBrains Mono', monospace;">
+Precision-Driven Full-Stack Engineer | Cognitive UI Architect | Systems Thinker
 </p>
 
 ---
 
-### 🌐 **Professional Summary**
-<p align="center" style="color:#B8F8FF;font-size:17px;line-height:1.6;text-shadow:0 0 8px #00FFFF;">
-I am a dedicated Full-Stack Software Developer with a focus on building efficient, scalable, and<br>
-user-centric web applications. I take a structured engineering approach, combining clarity in design<br>
-with modern development practices to deliver high-quality digital solutions. Passionate about formal<br>
-architecture, intuitive UI systems, and constant skill refinement.
+<!-- 3D ROTATING GRID / SPHERE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sergiogc9/react-svg-spinners/master/assets/sphere.gif" width="240" alt="3D Sphere"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Professional%20Mindset-Active-00E5FF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-Driven-Yes-%E2%9C%85-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
+<p align="center" style="color:#C8F8FF;font-size:15px;line-height:1.6;font-family: 'JetBrains Mono', monospace;">
+I develop highly-structured, scalable and secure systems,<br/>
+integrating computational clarity with immersive, clean user interfaces.<br/>
+Focused on engineering excellence, precision and continuous improvement.
 </p>
 
 ---
 
-### 🚀 **Technical Expertise**
+### 🧠 Core Competencies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,ts&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,flutter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,linux&perline=6" />
+</p>
+
+---
+
+### 📈 Engineering Metrics
 
 <div align="center">
-
-#### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell"/>
-
-#### 🌍 Frameworks & Ecosystem
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,remix,threejs,flutter"/>
-
-#### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-
-#### 🛠 Development Tools
-<img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,postman,figma,androidstudio,matlab"/>
-
-</div>
-
----
-
-### 📊 **Performance & Activity**
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=shivanesh1495&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&count_private=true&hide_border=true&theme=matrix" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=shivanesh1495&hide_border=true&theme=matrix" />
 </div>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&hide_border=true&bg_color=0D1117&line=00E5FF&point=FFFFFF&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&bg_color=000000&color=00FFAE&line=00FFAE&area=true&point=00F6FF&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 **Algorithmic Practice**
+### 📊 Algorithmic Intelligence
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=JetBrains+Mono&ext=contest&border=00E5FF&radius=8" />
+  <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=JetBrains+Mono&ext=contest&border=00FFB7&radius=8" />
 </p>
 
 ---
 
-### 🤝 **Professional Contact**
+### 📡 Communication Channels
 
 <p align="center">
-<a href="mailto:mcshivanesh777@gmail.com"><img height="42" src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;
-<a href="https://linkedin.com/in/shivanesh-m-c-9aa8a12a3"><img height="42" src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
-<a href="https://instagram.com/shivanesh_1495"><img height="42" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="mailto:mcshivanesh777@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail"/></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shivanesh-m-c-9aa8a12a3"><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/shivanesh_1495"><img height="40" src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Open+to+Collaboration+and+Innovative+Projects&fontAlign=50&fontAlignY=50&fontColor=00F0FF&color=0:000000,100:00E5FF&fontSize=20&height=90" />
+  <img src="https://i.gifer.com/embedded/download/ZZ5H.gif" width="100%" alt="matrix footer"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00E5FF&height=80&section=footer&animation=twinkling"/>
+<p align="center" style="font-family: 'JetBrains Mono', monospace;color:#00F6FF;font-size:15px;">
+System Operational ▍ Accepting Collaborative Engineering Engagements
 </p>

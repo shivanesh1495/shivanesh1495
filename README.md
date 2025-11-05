@@ -10,7 +10,7 @@
 
 <!-- Typing Banner -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=00EFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Creative+Technophile;Tech+Aspirant+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=00EFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Creative+Technophile;Tech+Aspirant" />
 </h2>
 
 <!-- Cyber Bio -->

@@ -48,14 +48,19 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<div align="center">
+
+<!-- Stats -->
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivanesh1495&theme=tokyonight"/>
 
-<!-- Streak (Reliable Mirror) -->
-<img height="170" src="https://github-readme-streak-stats-mg.vercel.app?user=shivanesh1495&theme=tokyonight&hide_border=true"/>
+<!-- Commits -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanesh1495&theme=tokyonight&utcOffset=5.5"/>
 
-<!-- Top Languages -->
+<!-- Languages -->
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanesh1495&theme=tokyonight"/>
+
+</div>
+
 
 </div>
 

@@ -48,15 +48,18 @@
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <a href="#">
-  <img height="165" src="https://github-readme-stats-godkingjay.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600"/>
 </a>
 
+<!-- GitHub Streak -->
 <a href="#">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanesh1495&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
+
 
 
 

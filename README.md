@@ -31,13 +31,13 @@
 
 <div align="center">
 
-  <h3> 🧠 Languages</h3>
+  <h3> Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
 
-  <h3> 🌐 Web / App Development</h3>
+  <h3> Web / App Development</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
 
-  <h3> 🛠️ Tools & Platforms</h3>
+  <h3> Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
 
 </div>

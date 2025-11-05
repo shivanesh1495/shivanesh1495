@@ -47,13 +47,19 @@
 <h2 align="center" style="color:#00FFFF;">📊 GitHub Analytics</h2>
 
 <div align="center">
+
+<!-- GitHub Stats -->
 <a href="#">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600"/>
 </a>
+
+<!-- GitHub Streak -->
 <a href="#">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanesh1495&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanesh1495&theme=tokyonight&hide_border=true"/>
 </a>
+
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0D1117&hide_border=true&radius=8" />

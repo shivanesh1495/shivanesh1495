@@ -48,12 +48,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Loading-blue?logo=github)
+<!-- Stats -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivanesh1495&theme=tokyonight"/>
 
+<!-- Commits -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanesh1495&theme=tokyonight&utcOffset=5.5"/>
 
+<!-- Languages -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanesh1495&theme=tokyonight"/>
 
 </div>
-
 
 
 

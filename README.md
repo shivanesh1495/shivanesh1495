@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2600&pause=700&color=00EFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Interface+Architect;Cyberpunk+UI+Engineer;Crafting+Futuristic+Digital+Experiences" />
 </h2>
 
----
 
 <!-- BIO SECTION - HOLOGRAM CARD -->
 <div align="center">
@@ -40,7 +39,7 @@
 </p>
 
 ---
----
+
 
 
 <!-- TECH SUITE PANEL -->
@@ -60,7 +59,7 @@
 </div>
 
 ---
----
+
 
 <!-- ANALYTICS -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CODE ANALYTICS</h2>
@@ -83,7 +82,7 @@
 
 
 ---
----
+
 
 <!-- LEETCODE PANEL -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">LEETCODE PERFORMANCE</h2>

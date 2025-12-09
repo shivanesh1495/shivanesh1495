@@ -6,11 +6,12 @@
 </div>
 
 
-
 <!-- TYPING INTRO -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2600&pause=700&color=00EFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Interface+Architect;Cyberpunk+UI+Engineer;Crafting+Futuristic+Digital+Experiences" />
 </h2>
+
+---
 
 <!-- BIO SECTION - HOLOGRAM CARD -->
 <div align="center">
@@ -39,9 +40,11 @@
 </p>
 
 ---
+---
+
 
 <!-- TECH SUITE PANEL -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">⚙️ TECH SUITE</h2>
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">TECH SUITE</h2>
 
 <div align="center">
 
@@ -57,9 +60,10 @@
 </div>
 
 ---
+---
 
 <!-- ANALYTICS -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">📊 SYSTEM ANALYTICS</h2>
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CODE ANALYTICS</h2>
 
 <p align="center">
   <img src="https://stats.hyo.dev/api/github-stats-advanced?login=shivanesh1495&theme=dark" width="95%" />
@@ -69,10 +73,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0D1117&hide_border=true&radius=10" width="95%" />
 </p>
 
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CONTRIBUTION METRICS</h2>
+
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=shivanesh1495" />
+  </a>
+</p>
+
+---
 ---
 
 <!-- LEETCODE PANEL -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">🧠 LEETCODE PERFORMANCE</h2>
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">LEETCODE PERFORMANCE</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=Orbitron&ext=activity" />
@@ -81,7 +94,7 @@
 ---
 
 <!-- CONTACT NETWORK -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">🔗 CONNECT</h2>
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CONNECT</h2>
 
 <p align="center">
 <a href="mailto:mcshivanesh777@gmail.com"><img height="46" src="https://skillicons.dev/icons?i=gmail"/></a>
@@ -92,6 +105,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Open%20for%20Collaborations&color=0:000814,100:00eaff&fontColor=00ffee&fontSize=22&animation=fadeIn" />
+</p>
 
 <!-- FOOTER WAVE -->
 <p align="center">

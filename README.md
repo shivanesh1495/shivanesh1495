@@ -1,5 +1,7 @@
 <!-- Hologram Intro -->
-https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=radical
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&border_radius=25" />
+</p>
 
 
 <!-- Futuristic Divider -->

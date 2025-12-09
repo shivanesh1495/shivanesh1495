@@ -12,12 +12,15 @@
 </h2>
 
 <!-- Cyber Bio -->
-<p align="center" style="font-size:18px;color:#00faffb3;max-width:800px;text-shadow:0 0 12px #00eaff;line-height:1.6">
-✨ Immersed in the realm of <b>Full Stack Development</b> <br>
-🎨 Engineering <b>clean, animated & futuristic UIs</b> <br>
-⚡ Blending <b>logic + creativity</b> to build digital experiences <br>
-🚀 Evolving daily — Learning • Crafting • Innovating
-</p>
+<div align="center">
+  <p style="font-size:18px;color:#00faffb3;max-width:800px;text-shadow:0 0 12px #00eaff;line-height:1.8;margin:auto;text-align:left;">
+    • Dedicated to advancing expertise in <b>Full Stack Development</b><br>
+    • Focused on creating <b>clean, modern, and high-performance user interfaces</b><br>
+    • Combining <b>technical precision</b> and <b>design thinking</b> to build impactful digital solutions<br>
+    • Continuously improving through <b>learning, experimentation, and innovation</b>
+  </p>
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20⚡%20Create%20⚡%20Innovate-00EFFF?style=for-the-badge&logo=github&logoColor=black"/>

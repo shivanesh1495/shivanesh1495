@@ -1,8 +1,5 @@
 <!-- Hologram Intro -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&border_radius=25" />
-</p>
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&data=followers,repositories,stars,commits&theme=radical)](https://github.com/shivanesh1495)
 
 <!-- Futuristic Divider -->
 <p align="center">
@@ -49,23 +46,10 @@
 
 <div align="center">
 
-<div align="center">
-
-<!-- Stats -->
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivanesh1495&theme=tokyonight"/>
-
-<!-- Commits -->
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanesh1495&theme=tokyonight&utcOffset=5.5"/>
-
-<!-- Languages -->
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanesh1495&theme=tokyonight"/>
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=shivanesh1495" height="380" width="1400" alt="Stats" />
+  
 
 </div>
-
-
-</div>
-
-
 
 
 <div align="center">

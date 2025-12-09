@@ -1,7 +1,6 @@
 <!-- Hologram Intro -->
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&data=followers,repositories,stars,commits&theme=darkmode" />
-</p>
+https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=radical
+
 
 <!-- Futuristic Divider -->
 <p align="center">

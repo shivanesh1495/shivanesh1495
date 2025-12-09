@@ -76,10 +76,11 @@
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CONTRIBUTION METRICS</h2>
 
 <p align="center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+  <a href="https://github.com/LordDashMe/github-contribution-stats">
     <img src="https://github-contribution-stats.vercel.app/api/?username=shivanesh1495" />
   </a>
 </p>
+
 
 ---
 ---

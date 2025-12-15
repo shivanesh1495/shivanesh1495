@@ -8,7 +8,7 @@
 
 <!-- TYPING INTRO -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2600&pause=700&color=00EFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Interface+Architect;Cyberpunk+UI+Engineer;Crafting+Futuristic+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2600&pause=700&color=00EFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;CODE+Architect;UI+Engineer;Crafting+Futuristic+Digital+Experiences" />
 </h2>
 
 

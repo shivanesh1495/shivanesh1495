@@ -59,10 +59,11 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
 📊 SYSTEM METRICS
 </h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00eaff&title_color=00eaff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanesh1495&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00eaff&text_color=c9d1d9" width="40%" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=shivanesh1495&theme=dark" width="96%" />
 </p>
+
 
 
 <p align="center">

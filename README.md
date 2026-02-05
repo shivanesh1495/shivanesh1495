@@ -72,7 +72,7 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 
 <!-- ================== DSA / ALGORITHMIC CORE ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-🧠 ALGORITHMIC ENGINE
+🧠 LEETSTATS
 </h2>
 
 <p align="center">
@@ -83,7 +83,7 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 
 <!-- ================== NETWORK ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-🌐 NEURAL NETWORK
+🌐 CONTACT ME VIA
 </h2>
 
 <p align="center">

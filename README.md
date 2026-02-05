@@ -42,13 +42,13 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 
 <div align="center">
 
-### <span style="color:#00eaff;font-family:Orbitron;">▣ CORE LANGUAGES</span>
+### <span style="color:#00eaff;font-family:Orbitron;">CORE LANGUAGES</span>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
 
-### <span style="color:#00eaff;font-family:Orbitron;">▣ WEB / APP ENGINEERING</span>
+### <span style="color:#00eaff;font-family:Orbitron;">WEB / APP ENGINEERING</span>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
 
-### <span style="color:#00eaff;font-family:Orbitron;">▣ TOOLING & PLATFORMS</span>
+### <span style="color:#00eaff;font-family:Orbitron;">TOOLS & PLATFORMS</span>
 <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
 
 </div>

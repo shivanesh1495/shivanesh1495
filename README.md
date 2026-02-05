@@ -1,22 +1,24 @@
-
-<!-- TYPING INTRO -->
+<!-- ================== CYBER INTRO ================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2600&pause=700&color=00EFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;CODE+Architect;UI+Engineer;Crafting+Futuristic+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=2400&pause=600&color=00F6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;UI+Systems+Architect;Code+×+Design+×+AI;Engineering+Tomorrow’s+Digital+Reality" />
 </h2>
 
-
-<!-- BIO SECTION - HOLOGRAM CARD -->
+<!-- ================== HOLOGRAPHIC BIO CORE ================== -->
 <div align="center">
 
-<table style="border:2px solid #003b4f;border-radius:12px;padding:20px;box-shadow:0 0 15px #00eaff55;width:900px;">
+<table style="border:2px solid #00eaff;border-radius:14px;padding:26px;
+background:linear-gradient(145deg,#000814,#001d2e);
+box-shadow:0 0 30px #00eaff66;width:920px;">
 <tr><td>
 
-<p style="font-size:18px;color:#a6f7ff;line-height:1.85;font-family:Orbitron;text-shadow:0 0 12px #00eaff;">
+<p style="font-size:18px;color:#b8fbff;line-height:1.9;
+font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
   
-◦ Advancing expertise in <b>Full Stack Engineering</b><br>
-◦ Engineering <b>futuristic and high-performance UIs</b><br>
-◦ Merging <b>design intelligence</b> with <b>system architecture</b><br>
-◦ Driven by <b>continuous learning and innovation</b>
+◈ Full-Stack Engineer specializing in <b>scalable, high-performance systems</b><br>
+◈ Architecting <b>futuristic UIs</b> with real-time interactivity & motion<br>
+◈ Bridging <b>design intelligence</b>, <b>software architecture</b>, and <b>AI-driven logic</b><br>
+◈ Obsessed with <b>clean abstractions, performance, and DX</b><br>
+◈ Continuously evolving through <b>systems thinking & deep tech</b>
 
 </p>
 
@@ -28,49 +30,50 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CODE%20%7C%20DESIGN%20%7C%20INNOVATE-00eaff?style=for-the-badge&labelColor=000000&color=00eaff&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/ENGINEER%20•%20DESIGNER%20•%20ARCHITECT-00eaff?style=for-the-badge&labelColor=000000&logo=github&logoColor=00eaff" />
 </p>
 
 ---
 
-
-
-<!-- TECH SUITE PANEL -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">TECH SUITE</h2>
+<!-- ================== TECH MATRIX ================== -->
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
+⚡ TECH MATRIX
+</h2>
 
 <div align="center">
 
-### <span style="color:#00eaff;font-family:Orbitron;">LANGUAGES</span>
+### <span style="color:#00eaff;font-family:Orbitron;">▣ CORE LANGUAGES</span>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
 
-### <span style="color:#00eaff;font-family:Orbitron;">WEB / APP STACK</span>
+### <span style="color:#00eaff;font-family:Orbitron;">▣ WEB / APP ENGINEERING</span>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
 
-### <span style="color:#00eaff;font-family:Orbitron;">TOOLS & PLATFORMS</span>
+### <span style="color:#00eaff;font-family:Orbitron;">▣ TOOLING & PLATFORMS</span>
 <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
 
 </div>
 
 ---
 
-
-<!-- ANALYTICS -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CODE ANALYTICS</h2>
+<!-- ================== SYSTEM METRICS ================== -->
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
+📊 SYSTEM METRICS
+</h2>
 
 <p align="center">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=shivanesh1495&theme=dark" width="95%" />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=shivanesh1495&theme=dark" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0D1117&hide_border=true&radius=10" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0B1117&hide_border=true&radius=12" width="96%" />
 </p>
-
 
 ---
 
-
-<!-- LEETCODE PANEL -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">LEETCODE PERFORMANCE</h2>
+<!-- ================== DSA / ALGORITHMIC CORE ================== -->
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
+🧠 ALGORITHMIC ENGINE
+</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=Orbitron&ext=activity" />
@@ -78,24 +81,33 @@
 
 ---
 
-<!-- CONTACT NETWORK -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CONNECT</h2>
+<!-- ================== NETWORK ================== -->
+<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
+🌐 NEURAL NETWORK
+</h2>
 
 <p align="center">
-<a href="mailto:mcshivanesh777@gmail.com"><img height="46" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:mcshivanesh777@gmail.com">
+  <img height="46" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 &nbsp;
-<a href="https://linkedin.com/in/shivanesh-m-c-9aa8a12a3"><img height="46" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://linkedin.com/in/shivanesh-m-c-9aa8a12a3">
+  <img height="46" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 &nbsp;
-<a href="https://instagram.com/shivanesh_1495"><img height="46" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://instagram.com/shivanesh_1495">
+  <img height="46" src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 </p>
 
 ---
 
+<!-- ================== COLLAB CTA ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Open%20for%20Collaborations&color=0:000814,100:00eaff&fontColor=00ffee&fontSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=Open%20for%20High-Impact%20Engineering%20Collaborations&color=0:000814,100:00eaff&fontColor=00ffee&fontSize=22&animation=fadeIn" />
 </p>
 
-<!-- FOOTER WAVE -->
+<!-- ================== FOOTER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=110&section=footer&animation=twinkling" />
 </p>

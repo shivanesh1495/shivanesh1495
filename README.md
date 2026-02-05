@@ -1,6 +1,6 @@
 <!-- ================== NAME BANNER ================== -->
 <p align="center">
-  <img src="./NAME.PNG" alt="Shivanesh Name Banner" width="100%" />
+  <img src="./NAME.png" alt="Shivanesh Name Banner" width="100%" />
 </p>
 
 

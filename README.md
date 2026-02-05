@@ -33,10 +33,6 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ENGINEER%20•%20DESIGNER%20•%20ARCHITECT-00eaff?style=for-the-badge&labelColor=000000&logo=github&logoColor=00eaff" />
-</p>
-
 ---
 
 <!-- ================== TECH MATRIX ================== -->

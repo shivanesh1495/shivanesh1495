@@ -20,11 +20,9 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
 <p style="font-size:18px;color:#b8fbff;line-height:1.9;
 font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
   
-◈ Full-Stack Engineer specializing in <b>scalable, high-performance systems</b><br>
-◈ Architecting <b>futuristic UIs</b> with real-time interactivity & motion<br>
-◈ Bridging <b>design intelligence</b>, <b>software architecture</b>, and <b>AI-driven logic</b><br>
-◈ Obsessed with <b>clean abstractions, performance, and DX</b><br>
-◈ Continuously evolving through <b>systems thinking & deep tech</b>
+<p align="center">
+  <img src="./MY.jpg" alt="my activity Banner" width="100%" />
+</p>
 
 </p>
 

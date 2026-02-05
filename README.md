@@ -1,3 +1,9 @@
+<!-- ================== NAME BANNER ================== -->
+<p align="center">
+  <img src="./NAME.PNG" alt="Shivanesh Name Banner" width="100%" />
+</p>
+
+
 <!-- ================== CYBER INTRO ================== -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=2400&pause=600&color=00F6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;UI+Systems+Architect;Code+×+Design+×+AI;Engineering+Tomorrow’s+Digital+Reality" />

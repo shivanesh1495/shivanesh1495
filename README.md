@@ -1,10 +1,3 @@
-<!-- PROFILE MODULE -->
-<div align="center" style="margin-top:20px;">
-  <a href="https://github.com/shivanesh1495">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=shivanesh1495&data=followers,repositories,stars,commits&theme=darkmode" />
-  </a>
-</div>
-
 
 <!-- TYPING INTRO -->
 <h2 align="center">

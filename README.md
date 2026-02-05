@@ -65,14 +65,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0D1117&hide_border=true&radius=10" width="95%" />
 </p>
 
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">CONTRIBUTION METRICS</h2>
-
-<p align="center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=shivanesh1495" />
-  </a>
-</p>
-
 
 ---
 

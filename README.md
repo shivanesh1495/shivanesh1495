@@ -49,7 +49,7 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
 
 ### <span style="color:#00eaff;font-family:Orbitron;">TOOLS & PLATFORMS</span>
-<img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
+<img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab,antigravity,cursor" />
 
 </div>
 

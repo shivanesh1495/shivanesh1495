@@ -60,14 +60,6 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 📊 SYSTEM METRICS
 </h2>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=shivanesh1495&theme=dark&hide_border=true" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark" />
 
 
 <p align="center">

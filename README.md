@@ -57,7 +57,7 @@ font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
 
 <!-- ================== SYSTEM METRICS ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-📊 SYSTEM METRICS
+📊 METRICS
 </h2>
 
 

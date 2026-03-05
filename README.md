@@ -17,16 +17,6 @@ background:linear-gradient(145deg,#000814,#001d2e);
 box-shadow:0 0 30px #00eaff66;width:920px;">
 <tr><td>
 
-<p style="font-size:18px;color:#b8fbff;line-height:1.9;
-font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
-  
-
-
-</p>
-
-</td></tr>
-</table>
-
 </div>
 
 <br/>

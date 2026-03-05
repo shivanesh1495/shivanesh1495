@@ -20,9 +20,7 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
 <p style="font-size:18px;color:#b8fbff;line-height:1.9;
 font-family:Orbitron;text-shadow:0 0 14px #00eaff;">
   
-<p align="center">
-  <img src="./MY.jpg" alt="my activity Banner" width="100%" />
-</p>
+
 
 </p>
 

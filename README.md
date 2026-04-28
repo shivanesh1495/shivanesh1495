@@ -4,7 +4,7 @@
 
 <!-- ================== CORE LANGUAGES ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000000&color=00EAFF&center=true&vCenter=true&width=800&lines=💻+CORE+LANGUAGES" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:001018,50:00c6ff,100:00EAFF&text=💻%20CORE%20LANGUAGES&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50&desc=&stroke=00EAFF&strokeWidth=1" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
 </p>
@@ -12,7 +12,7 @@
 
 <!-- ================== WEB / APP ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000000&color=00EAFF&center=true&vCenter=true&width=900&lines=🌐+WEB+%2F+APP+ENGINEERING" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:001018,50:00c6ff,100:00EAFF&text=🌐%20WEB%20/%20APP%20ENGINEERING&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50&stroke=00EAFF&strokeWidth=1" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
 </p>
@@ -20,10 +20,11 @@
 
 <!-- ================== TOOLS ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000000&color=00EAFF&center=true&vCenter=true&width=800&lines=🛠️+TOOLS+%26+PLATFORMS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:001018,50:00c6ff,100:00EAFF&text=🛠️%20TOOLS%20%26%20PLATFORMS&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50&stroke=00EAFF&strokeWidth=1" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
 </p>
+
 
 
 <!-- ================== STATS ================== -->

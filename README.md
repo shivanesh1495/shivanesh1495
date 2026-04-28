@@ -1,8 +1,5 @@
 <!-- ================== NAME BANNER ================== -->
-<p align="center">
-  <img src="./Full stack Dev.svg" alt="Shivanesh Name Banner" width="100%" />
-</p>
-
+<img src="https://github.com/shivanesh1495/shivanesh1495/blob/main/Full%20stack%20Dev.svg" width="100%" />
 
 
 

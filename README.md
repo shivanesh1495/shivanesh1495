@@ -43,20 +43,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0B1117&hide_border=true&radius=12" width="96%" />
 </p>
 
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-🌐 CONTACT ME VIA
-</h2>
-
-<p align="center">
-<a href="mailto:mcshivanesh777@gmail.com">
-  <img height="46" src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/shivanesh-m-c-9aa8a12a3">
-  <img height="46" src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/shivanesh_1495">
-  <img height="46" src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-</p>

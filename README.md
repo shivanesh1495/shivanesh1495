@@ -69,12 +69,3 @@
   <img height="46" src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=Open%20for%20High-Impact%20Engineering%20Collaborations&color=0:000814,100:00eaff&fontColor=00ffee&fontSize=22&animation=fadeIn" />
-</p>
-
-<!-- ================== FOOTER ================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=110&section=footer&animation=twinkling" />
-</p>

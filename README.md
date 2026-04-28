@@ -4,7 +4,7 @@
 </p>
 
 
-<h2 align="center">⚡ TECH MATRIX</h2>
+
 
 <!-- CORE LANGUAGES -->
 <p align="center">
@@ -32,9 +32,7 @@
 
 
 
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-🔥 CONTRIBUTION STATS
-</h2>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanesh1495&theme=react&hide_border=true&background=0B1117&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF" width="48%" />

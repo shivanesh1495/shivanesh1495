@@ -64,19 +64,6 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0B1117&hide_border=true&radius=12" width="96%" />
 </p>
 
----
-
-<!-- ================== DSA / ALGORITHMIC CORE ================== -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-🧠 LEETSTATS
-</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shivanesh_1495?theme=dark&font=Orbitron&ext=activity" />
-</p>
-
----
-
 <!-- ================== NETWORK ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
 🌐 CONTACT ME VIA

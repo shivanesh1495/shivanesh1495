@@ -36,7 +36,4 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=shivanesh1495&show_icons=true&theme=react&hide_border=true&bg_color=0B1117&title_color=00E6FF&icon_color=00E6FF" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0B1117&hide_border=true&radius=12" width="96%" />
-</p>
 

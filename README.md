@@ -3,38 +3,31 @@
   <img src="./Full stack Dev.svg" alt="Shivanesh Name Banner" width="100%" />
 </p>
 
-<!-- ================== TECH MATRIX ================== -->
-<h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
-⚡ TECH MATRIX
-</h2>
 
-<!-- ================== CORE LANGUAGES ================== -->
-<marquee behavior="scroll" direction="left" scrollamount="8">
-<span style="color:#00eaff;font-family:Orbitron;font-size:18px;">
-💻 CORE LANGUAGES →
-</span>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
-</marquee>
+<h2 align="center">⚡ TECH MATRIX</h2>
 
-<br/>
+<!-- CORE LANGUAGES -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=1000&color=00EAFF&center=true&vCenter=true&width=600&lines=💻+CORE+LANGUAGES" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
+</p>
 
-<!-- ================== WEB / APP ENGINEERING ================== -->
-<marquee behavior="scroll" direction="right" scrollamount="8">
-<span style="color:#00eaff;font-family:Orbitron;font-size:18px;">
-🌐 WEB / APP ENGINEERING →
-</span>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
-</marquee>
+<!-- WEB / APP -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=1000&color=00EAFF&center=true&vCenter=true&width=600&lines=🌐+WEB+%2F+APP+ENGINEERING" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
+</p>
 
-<br/>
+<!-- TOOLS -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=1000&color=00EAFF&center=true&vCenter=true&width=600&lines=🛠️+TOOLS+%26+PLATFORMS" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
+</p>
 
-<!-- ================== TOOLS & PLATFORMS ================== -->
-<marquee behavior="scroll" direction="left" scrollamount="8">
-<span style="color:#00eaff;font-family:Orbitron;font-size:18px;">
-🛠️ TOOLS & PLATFORMS →
-</span>
-<img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
-</marquee>
+
 
 
 

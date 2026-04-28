@@ -4,20 +4,11 @@
 </p>
 
 
-<!-- ================== CYBER INTRO ================== -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=2400&pause=600&color=00F6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;UI+Systems+Architect;Code+×+Design+×+AI;Aspiring+Cloud+Engineer" />
-</h2>
-
-<!-- ================== HOLOGRAPHIC BIO CORE ================== -->
-<div align="center">
-
 <table style="border:2px solid #00eaff;border-radius:14px;padding:26px;
 background:linear-gradient(145deg,#000814,#001d2e);
 box-shadow:0 0 30px #00eaff66;width:920px;">
 <tr><td>
 
-</div>
 
 <br/>
 
@@ -28,7 +19,6 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
 ⚡ TECH MATRIX
 </h2>
 
-<div align="center">
 
 ### <span style="color:#00eaff;font-family:Orbitron;">CORE LANGUAGES</span>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
@@ -39,7 +29,7 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
 ### <span style="color:#00eaff;font-family:Orbitron;">TOOLS & PLATFORMS</span>
 <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
 
-</div>
+
 
 ---
 

@@ -2,31 +2,6 @@
 <img src="https://github.com/shivanesh1495/shivanesh1495/blob/main/Full%20stack%20Dev.svg" width="100%" />
 
 
-
-<!-- ================== ANIMATED STYLE ================== -->
-<style>
-@keyframes glow {
-  0% { text-shadow: 0 0 5px #00eaff, 0 0 10px #00eaff; }
-  50% { text-shadow: 0 0 15px #00eaff, 0 0 30px #00eaff; }
-  100% { text-shadow: 0 0 5px #00eaff, 0 0 10px #00eaff; }
-}
-
-@keyframes pulse {
-  0% { opacity: 0.7; transform: scale(0.98); }
-  50% { opacity: 1; transform: scale(1.02); }
-  100% { opacity: 0.7; transform: scale(0.98); }
-}
-
-.section-title {
-  font-family: Orbitron, sans-serif;
-  font-size: 20px;
-  color: #00eaff;
-  animation: glow 2s infinite, pulse 3s infinite;
-}
-</style>
-
-
-
 <!-- ================== CORE LANGUAGES ================== -->
 <p align="center" class="section-title">
 💻 CORE LANGUAGES

@@ -3,38 +3,42 @@
   <img src="./Full stack Dev.svg" alt="Shivanesh Name Banner" width="100%" />
 </p>
 
-
-<table style="border:2px solid #00eaff;border-radius:14px;padding:26px;
-background:linear-gradient(145deg,#000814,#001d2e);
-box-shadow:0 0 30px #00eaff66;width:920px;">
-<tr><td>
-
-
-<br/>
-
----
-
 <!-- ================== TECH MATRIX ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
 ⚡ TECH MATRIX
 </h2>
 
-
-### <span style="color:#00eaff;font-family:Orbitron;">CORE LANGUAGES</span>
+<!-- ================== CORE LANGUAGES ================== -->
+<marquee behavior="scroll" direction="left" scrollamount="8">
+<span style="color:#00eaff;font-family:Orbitron;font-size:18px;">
+💻 CORE LANGUAGES →
+</span>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,haskell" />
+</marquee>
 
-### <span style="color:#00eaff;font-family:Orbitron;">WEB / APP ENGINEERING</span>
+<br/>
+
+<!-- ================== WEB / APP ENGINEERING ================== -->
+<marquee behavior="scroll" direction="right" scrollamount="8">
+<span style="color:#00eaff;font-family:Orbitron;font-size:18px;">
+🌐 WEB / APP ENGINEERING →
+</span>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,remix,threejs,mongodb,mysql,flutter" />
+</marquee>
 
-### <span style="color:#00eaff;font-family:Orbitron;">TOOLS & PLATFORMS</span>
+<br/>
+
+<!-- ================== TOOLS & PLATFORMS ================== -->
+<marquee behavior="scroll" direction="left" scrollamount="8">
+<span style="color:#00eaff;font-family:Orbitron;font-size:18px;">
+🛠️ TOOLS & PLATFORMS →
+</span>
 <img src="https://skillicons.dev/icons?i=git,linux,arduino,vscode,eclipse,postman,figma,androidstudio,firebase,matlab" />
+</marquee>
 
 
 
----
 
-<!-- ================== SYSTEM METRICS ================== -->
-<!-- ================== CONTRIBUTION STATS ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
 🔥 CONTRIBUTION STATS
 </h2>
@@ -48,7 +52,6 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanesh1495&theme=react-dark&bg_color=0B1117&hide_border=true&radius=12" width="96%" />
 </p>
 
-<!-- ================== NETWORK ================== -->
 <h2 align="center" style="color:#00FFFF;font-family:Orbitron;">
 🌐 CONTACT ME VIA
 </h2>
@@ -67,9 +70,6 @@ box-shadow:0 0 30px #00eaff66;width:920px;">
 </a>
 </p>
 
----
-
-<!-- ================== COLLAB CTA ================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=Open%20for%20High-Impact%20Engineering%20Collaborations&color=0:000814,100:00eaff&fontColor=00ffee&fontSize=22&animation=fadeIn" />
 </p>

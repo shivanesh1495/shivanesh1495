@@ -32,7 +32,7 @@
 </p>
 
 <!-- ================== STATS ================== -->
-<p align="center">
+<p>
   <img 
     src="https://streak-stats.demolab.com?user=shivanesh1495&theme=react&hide_border=true&background=0B1117&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF&cache_seconds=1800" 
     width="48%" 

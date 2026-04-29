@@ -11,9 +11,9 @@
 </p>
 
 <!-- ================== SKILLS ================== -->
-<h2 align="center" style="color:#00E6FF; font-weight:700;">
-  Languages & Tools
-</h2>
+<p align="center" style="color:#00E6FF; font-size:70px;">
+  <b>Languages &amp; Tools</b>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart,html,css,js,ts,react,next,nodejs,remix,threejs,mongodb,postgres,mysql,flutter,git,linux,vscode,eclipse,postman,figma,androidstudio,firebase&perline=13" />

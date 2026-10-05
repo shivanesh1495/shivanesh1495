@@ -1,0 +1,23 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          USERNAME: shivanesh1495
+          OUTPUT_PATH: streak.svg
+          COLOR: 00E6FF
+          BACKGROUND: 0B1117
+          BORDER: 00000000
+          RING: 00E6FF
+          FIRE: 00E6FF
+          CURR_STREAK_LABEL: 00E6FF

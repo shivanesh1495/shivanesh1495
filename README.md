@@ -5,7 +5,12 @@
  
 <!-- ================== STATS ================== -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivanesh1495&theme=react&hide_border=true&background=0B1117&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF&cache_seconds=1800" width="48%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=shivanesh1495&theme=react&hide_border=true&background=0B1117&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF"
+    width="48%"
+    alt="GitHub Streak Stats"
+  />
+</p>
   
 <!-- ================== SKILLS ================== -->
 <p align="center" style="color:#00E6FF; font-size:70px;">
